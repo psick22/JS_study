@@ -112,6 +112,7 @@ console.log(user4);
 console.log(user5);
 
 // another example
+// multiple source
 const fruit1 = { color: "red" };
 const fruit2 = { color: "blue", size: "big" };
 const mixed = Object.assign({}, fruit1, fruit2);
