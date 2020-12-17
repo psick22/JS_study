@@ -1,0 +1,9 @@
+* {
+  padding: 0;
+  margin: 0;
+}
+.main {
+  background-color: #d4b7d3;
+  width: 25vw;
+  padding: 10px 10px;
+}
